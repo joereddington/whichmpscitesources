@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
-import tweepy
+import tweepy #https://github.com/tweepy/tweepy
 import csv
 
 #Twitter API credentials
