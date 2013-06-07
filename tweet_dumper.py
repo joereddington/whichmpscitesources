@@ -12,6 +12,7 @@ access_secret = ""
 
 
 def get_all_tweets(screen_name):
+	#Twitter only allows access to a users most recent 3240 tweets with this method
 	
 	#authorize twitter, initialize tweepy
 	auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
