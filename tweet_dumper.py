@@ -33,7 +33,7 @@ def get_all_tweets(screen_name):
 	
 	#keep grabbing tweets until there are no tweets left to grab
 	while len(new_tweets) > 0:
-		print "getting tweets gefore %s" % (oldest)
+		print "getting tweets before %s" % (oldest)
 		
 		#all subsiquent requests use the max_id param to prevent duplicates
 		new_tweets = api.user_timeline(screen_name = screen_name,count=200,max_id=oldest)
