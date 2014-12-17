@@ -14,7 +14,6 @@ public class ProcessMp {
 
 	public static void main(String[] args) throws TwitterException, InterruptedException {
 		twitter = TwitApplicationFactory.getjoereddingtonTwitter();
-		//String username = "@vincecable";
 		String username = args[0];
 		System.out.println(username);
 		User user = twitter.showUser(username.replace("@", ""));
@@ -28,8 +27,8 @@ public class ProcessMp {
 		int withNumber = 0;
 
 		for (int i = 1; i < 10; i++) {
-			ResponseList<Status> temp = twitter.getUserTimeline(user.getId(), new Paging(i, 100));
-			for (Status status : temp) {
+			ResponseList<Status> currentlyExaminedStatus = twitter.getUserTimeline(user.getId(), new Paging(i, 100));
+			for (Status status : currentlyExaminedStatus) {
 				if (status.getText().startsWith("RT")) {
 					continue;
 				}
@@ -56,16 +55,12 @@ public class ProcessMp {
 	protected static void waitUntilICanMakeAnotherCall() throws TwitterException, InterruptedException {
 		{
 			Map<String, RateLimitStatus> temp = twitter.getRateLimitStatus();
-
-			RateLimitStatus temp2 = temp.get("/statuses/retweets/:id");
-			// System.out.println(temp2.getRemaining());
-			if (temp2.getRemaining() == 0) {
-				Thread.sleep((temp2.getSecondsUntilReset() + 5) * 1000);
+			RateLimitStatus secondsRemaining = temp.get("/statuses/retweets/:id");
+			if (secondsRemaining.getRemaining() == 0) {
+				Thread.sleep((secondsRemaining.getSecondsUntilReset() + 5) * 1000);
 				return;
 			}
-			// System.out.println(temp2.getSecondsUntilReset());
-			int secondstosleep = 1 + temp2.getSecondsUntilReset() / temp2.getRemaining();
-			// System.out.println(secondstosleep);
+			int secondstosleep = 1 + secondsRemaining.getSecondsUntilReset() / secondsRemaining.getRemaining();
 			Thread.sleep(secondstosleep * 1000);
 		}
 	}
