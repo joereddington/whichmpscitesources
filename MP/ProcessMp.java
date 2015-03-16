@@ -1,3 +1,4 @@
+package MP;
 import java.util.Map;
 
 import twitter4j.Paging;
@@ -12,6 +13,7 @@ public class ProcessMp {
 
 	public static Twitter twitter;
 
+	
 	public static void main(String[] args) throws TwitterException, InterruptedException {
 		twitter = TwitApplicationFactory.getjoereddingtonTwitter();
 		String username = args[0];
@@ -21,7 +23,7 @@ public class ProcessMp {
 		checkUser(user);
 	}
 
-	private static void checkUser(User user) throws TwitterException, InterruptedException {
+	protected static void checkUser(User user) throws TwitterException, InterruptedException {
 		int withNumberAndRef = 0;
 		int tweets = 0;
 		int withNumber = 0;
