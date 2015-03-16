@@ -1,4 +1,6 @@
 package MP;
+
+import java.util.Date;
 import java.util.Map;
 
 import twitter4j.Paging;
@@ -13,8 +15,8 @@ public class ProcessMp {
 
 	public static Twitter twitter;
 
-	
-	public static void main(String[] args) throws TwitterException, InterruptedException {
+	public static void main(String[] args) throws TwitterException,
+			InterruptedException {
 		twitter = TwitApplicationFactory.getjoereddingtonTwitter();
 		String username = args[0];
 		System.out.println(username);
@@ -23,18 +25,27 @@ public class ProcessMp {
 		checkUser(user);
 	}
 
-	protected static void checkUser(User user) throws TwitterException, InterruptedException {
+	@SuppressWarnings("deprecation")
+	protected static void checkUser(User user) throws TwitterException,
+			InterruptedException {
 		int withNumberAndRef = 0;
 		int tweets = 0;
 		int withNumber = 0;
 
 		for (int i = 1; i < 10; i++) {
-			ResponseList<Status> currentlyExaminedStatus = twitter.getUserTimeline(user.getId(), new Paging(i, 100));
+			ResponseList<Status> currentlyExaminedStatus = twitter
+					.getUserTimeline(user.getId(), new Paging(i, 100));
 			for (Status status : currentlyExaminedStatus) {
+				Date start = new Date(115, 1, 1);
+				if (status.getCreatedAt().before(start)) {
+					System.out.println("hey!");
+					continue;
+				}
 				if (status.getText().startsWith("RT")) {
 					continue;
 				}
-				System.out.println(status.getText());
+				System.out.println(status.getText() + " "
+						+ status.getCreatedAt());
 				tweets++;
 				if (status.getText().matches(".* \\d+,*\\d* .*")) {
 					withNumber++;
@@ -54,15 +65,18 @@ public class ProcessMp {
 
 	}
 
-	protected static void waitUntilICanMakeAnotherCall() throws TwitterException, InterruptedException {
+	protected static void waitUntilICanMakeAnotherCall()
+			throws TwitterException, InterruptedException {
 		{
 			Map<String, RateLimitStatus> temp = twitter.getRateLimitStatus();
-			RateLimitStatus secondsRemaining = temp.get("/statuses/retweets/:id");
+			RateLimitStatus secondsRemaining = temp
+					.get("/statuses/retweets/:id");
 			if (secondsRemaining.getRemaining() == 0) {
 				Thread.sleep((secondsRemaining.getSecondsUntilReset() + 5) * 1000);
 				return;
 			}
-			int secondstosleep = 1 + secondsRemaining.getSecondsUntilReset() / secondsRemaining.getRemaining();
+			int secondstosleep = 1 + secondsRemaining.getSecondsUntilReset()
+					/ secondsRemaining.getRemaining();
 			Thread.sleep(secondstosleep * 1000);
 		}
 	}
