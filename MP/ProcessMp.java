@@ -8,7 +8,6 @@ import twitter4j.Status;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import twitter4j.User;
-import TwitApplicationFactory;
 
 public class ProcessMp {
 
