@@ -183,6 +183,7 @@
 @KarenBuckMP
 @KarlTurnerMP
 @KateGreenSU
+@KateHoeyMP
 @KatyClarkMP
 @KeeleyMP
 @Keith_VazMP
@@ -371,7 +372,6 @@
 @hammersmithandy
 @heidi_mp
 @hilarybennmp
-@hoeykateMP
 @iainastewart
 @iswales
 @jameswhartonmp
