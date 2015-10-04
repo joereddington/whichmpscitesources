@@ -1,23 +1,34 @@
-#!/usr/bin/env python
+!/usr/bin/env python
 # encoding: utf-8
-try:
-    from configparser import ConfigParser
-except ImportError:
-    from ConfigParser import ConfigParser  # ver. < 3.0
 import tweepy  # https://github.com/tweepy/tweepy
 import csv
+"""So here is the plan.
 
+Read the twitter for each MP and place in text files.
+    -   Partly to keep the code as it is
+    -   Partly in case of interupted signal (do we have this file? Okay move on)
+    -   Partly so people can check the work
+
+Then read the text files - create a table of MPs and their links,
+    -   sort table
+    -   produce HTML automatically
+    -   Two versions - one with the >5 tweets and one without
+
+
+"""
 # Twitter API credentials
+# from http://stackoverflow.com/a/29479549/170243
+try:
+        from configparser import ConfigParser
+except ImportError:
+        from ConfigParser import ConfigParser  # ver. < 3.0
 config = ConfigParser()
 config.read('keys.ini')
-consumer_key = config.get('twitter','consumer_key')
-consumer_secret = config.get('twitter','consumer_secret')
-access_key = config.get('twitter','access_key')
-access_secret = config.get('twitter','access_secret')
-print consumer_key
-print consumer_secret
-print access_key
-print access_secret
+consumer_key = config.get('twitter', 'consumer_key')
+consumer_secret = config.get('twitter', 'consumer_secret')
+access_key = config.get('twitter', 'access_key')
+access_secret = config.get('twitter', 'access_secret')
+
 
 def get_all_tweets(screen_name):
         # Twitter only allows access to a users most recent 3240 tweets with
