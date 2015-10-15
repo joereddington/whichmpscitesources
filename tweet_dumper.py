@@ -1,4 +1,4 @@
-!/usr/bin/env python
+#!/usr/bin/env python
 # encoding: utf-8
 import tweepy  # https://github.com/tweepy/tweepy
 import csv
@@ -29,6 +29,15 @@ consumer_secret = config.get('twitter', 'consumer_secret')
 access_key = config.get('twitter', 'access_key')
 access_secret = config.get('twitter', 'access_secret')
 
+
+def get_all_handles(filename):
+    """Returns all of the twitter handles in the filename"""
+    file=open(filename)
+    screennames=[]
+    for rawline in file:
+        splitline=rawline.split('@')
+        screennames.insert(0,splitline[1])
+    return screennames
 
 def get_all_tweets(screen_name):
         # Twitter only allows access to a users most recent 3240 tweets with
@@ -86,5 +95,6 @@ def get_all_tweets(screen_name):
 
 
 if __name__ == '__main__':
-        # pass in the username of the account you want to download
-        get_all_tweets("joereddington")
+	names=get_all_handles('mps.txt')
+        for mp in names:
+            get_all_tweets(mp)
