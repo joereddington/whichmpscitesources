@@ -53,7 +53,12 @@ def get_all_tweets(screen_name):
 
         # make initial request for most recent tweets (200 is the maximum
         # allowed count)
-        new_tweets = api.user_timeline(screen_name=screen_name, count=200)
+	try:
+		new_tweets = api.user_timeline(screen_name=screen_name, count=200)
+	except tweepy.TweepError as e:
+	 	if "Not authorized." in  e.message:
+			print "The user {} appears to NOT exist".format(screen_name)
+			return
 
         # save most recent tweets
         alltweets.extend(new_tweets)
