@@ -57,7 +57,9 @@ def get_all_tweets(screen_name):
 
         # save most recent tweets
         alltweets.extend(new_tweets)
-
+        #some people have NO tweets
+	if len(alltweets)==0:
+		return
         # save the id of the oldest tweet less one
         oldest = alltweets[-1].id - 1
 
