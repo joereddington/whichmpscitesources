@@ -61,12 +61,14 @@ def get_all_tweets(screen_name):
         except tweepy.TweepError as e:
                 if "Not authorized." in e.message:
                         print "The user {} appears to NOT exist".format(screen_name)
-                        return
+			return
+		print str(e)
+		return
         user = api.get_user(screen_name)
         top_line = (
             user.screen_name,
             user.name,
-            user.description,
+            user.description.encode("utf-8"),
             user.followers_count,
             user.statuses_count,
             user.url)
