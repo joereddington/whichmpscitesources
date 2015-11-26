@@ -1,4 +1,4 @@
-
+from __future__ import division
 import csv
 import re
 import os
@@ -10,7 +10,10 @@ Add the ratios
 Sort output by ratios
 Make HTML output
 Add links to html
+add links to the set of tweets downloaded
 cut people who have less than X qualifying tweets
+"""
+
 
 def process_file(filename, database, cutoff_date=None):
         # So what do we want?
@@ -29,12 +32,18 @@ def process_file(filename, database, cutoff_date=None):
                                 tweets_with_numbers += 1
                                 if "http" in tweet[2]:
                                         tweets_with_numbers_and_links += 1
+
+                if tweets_with_numbers==0:
+                        ratio=0
+                else:
+                        ratio=tweets_with_numbers_and_links/tweets_with_numbers
                 database[
                     headings[0]] = (
                     headings[1],
                     total_tweets,
                     tweets_with_numbers,
-                    tweets_with_numbers_and_links)
+                    tweets_with_numbers_and_links,
+                    ratio)
         finally:
                 f.close()
         return (total_tweets,
@@ -44,14 +53,21 @@ def process_file(filename, database, cutoff_date=None):
 
 def populate_database():
         database = {}
-        for f in os.listdir('testdata'):
-                process_file('testdata/'+f, database)
+        for f in os.listdir('full'):
+                process_file('full/'+f, database)
         return database
 
 
 def produce_html(database):
         # For each filename
-        for key, value in database.iteritems():
-                print "{} (@{}): {}, {}, {}".format(value[0], key, value[1], value[2], value[3])
+        processed_mps=database.iteritems()
+        processed_mps=sorted(processed_mps,key=lambda  k:k[1][4], reverse=True)
+        rank=0
+        print "<table>"
+        for key, value in processed_mps:
+                rank+=1
+ #               print "{} (@{}): {}, {}, {} {:.2f}%".format(value[0], key, value[1], value[2], value[3], value[4]*100)
+                print "<tr><td>{}</td><td>{} </td><td> (@{}) </td><td> {} </td><td> {} </td><td> {} </td><td> {:.2f}% </td></tr>".format(rank,value[0], key, value[1], value[2], value[3], value[4]*100)
+        print "</table>"
 
 produce_html(populate_database())

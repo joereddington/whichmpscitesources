@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 import tweepy  # https://github.com/tweepy/tweepy
+from tweepy.error import TweepError
 import csv
 """So here is the plan.
 
@@ -55,55 +56,58 @@ def get_all_tweets(screen_name):
         # make initial request for most recent tweets (200 is the maximum
         # allowed count)
         try:
-                new_tweets = api.user_timeline(
-                    screen_name=screen_name,
-                    count=200)
+		new_tweets = api.user_timeline( screen_name=screen_name, count=200)
+		user = api.get_user(screen_name)
+		top_line = (
+		    user.screen_name,
+		    user.name,
+		    user.description.encode("utf-8"),
+		    user.followers_count,
+		    user.statuses_count,
+		    user.url)
+		# save most recent tweets
+		alltweets.extend(new_tweets)
+		# some people have NO tweets
+		if len(alltweets) == 0:
+			return
+		# save the id of the oldest tweet less one
+		oldest = alltweets[-1].id - 1
+
+		# keep grabbing tweets until there are no tweets left to grab
+		while len(new_tweets) > 0:
+			print "getting tweets before %s" % (oldest)
+
+			# all subsiquent requests use the max_id param to prevent
+			# duplicates
+			old_new_tweets=new_tweets
+			try:
+				new_tweets = api.user_timeline(
+				    screen_name=screen_name,
+				    count=200,
+				    max_id=oldest)
+			except TweepError as e:
+			    print str(e)
+			    new_tweets=old_new_tweets
+			    continue
+			# save most recent tweets
+			alltweets.extend(new_tweets)
+
+			# update the id of the oldest tweet less one
+			oldest = alltweets[-1].id - 1
+
+			print "...%s tweets downloaded so far" % (len(alltweets))
+
+		# transform the tweepy tweets into a 2D array that will populate the csv
+		outtweets = [
+		    [tweet.id_str, tweet.created_at, tweet.text.encode("utf-8")]
+		    for tweet in alltweets]
+
         except tweepy.TweepError as e:
-                if "Not authorized." in e.message:
+           if "Not authorized." in e.message:
                         print "The user {} appears to NOT exist".format(screen_name)
 			return
-		print str(e)
-		return
-        user = api.get_user(screen_name)
-        top_line = (
-            user.screen_name,
-            user.name,
-            user.description.encode("utf-8"),
-            user.followers_count,
-            user.statuses_count,
-            user.url)
-        # save most recent tweets
-        alltweets.extend(new_tweets)
-        # some people have NO tweets
-        if len(alltweets) == 0:
-                return
-        # save the id of the oldest tweet less one
-        oldest = alltweets[-1].id - 1
-
-        # keep grabbing tweets until there are no tweets left to grab
-        while len(new_tweets) > 0:
-                print "getting tweets before %s" % (oldest)
-
-                # all subsiquent requests use the max_id param to prevent
-                # duplicates
-                new_tweets = api.user_timeline(
-                    screen_name=screen_name,
-                    count=200,
-                    max_id=oldest)
-
-                # save most recent tweets
-                alltweets.extend(new_tweets)
-
-                # update the id of the oldest tweet less one
-                oldest = alltweets[-1].id - 1
-
-                print "...%s tweets downloaded so far" % (len(alltweets))
-
-        # transform the tweepy tweets into a 2D array that will populate the csv
-        outtweets = [
-            [tweet.id_str, tweet.created_at, tweet.text.encode("utf-8")]
-            for tweet in alltweets]
-
+	   print str(e)
+	   return
         # write the csv
         with open('%s_tweets.csv' % screen_name.strip(), 'wb') as f:
                 writer = csv.writer(f)
