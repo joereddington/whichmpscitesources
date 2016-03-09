@@ -63,11 +63,8 @@ def produce_html(database):
         processed_mps=database.iteritems()
         processed_mps=sorted(processed_mps,key=lambda  k:k[1][4], reverse=True)
         rank=0
-        print "<table>"
         for key, value in processed_mps:
                 rank+=1
  #               print "{} (@{}): {}, {}, {} {:.2f}%".format(value[0], key, value[1], value[2], value[3], value[4]*100)
                 print "<tr><td>{}</td><td>{} </td><td> (@{}) </td><td> {} </td><td> {} </td><td> {} </td><td> {:.2f}% </td></tr>".format(rank,value[0], key, value[1], value[2], value[3], value[4]*100)
-        print "</table>"
-
 produce_html(populate_database())
