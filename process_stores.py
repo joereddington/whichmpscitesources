@@ -23,6 +23,7 @@ def process_file(filename, database, cutoff_date=None):
 
         # Read the CSV
         f = open(filename, 'rt')
+	#print filename
         try:
                 reader = csv.reader(f)
                 headings = next(reader, None)
@@ -37,6 +38,8 @@ def process_file(filename, database, cutoff_date=None):
                         ratio=0
                 else:
                         ratio=tweets_with_numbers_and_links/tweets_with_numbers
+		#print headings
+		#print "here"
                 database[
                     headings[0]] = (
                     headings[1],
@@ -44,6 +47,9 @@ def process_file(filename, database, cutoff_date=None):
                     tweets_with_numbers,
                     tweets_with_numbers_and_links,
                     ratio)
+		#print "there"
+	except TypeError: 
+		pass
         finally:
                 f.close()
         return (total_tweets,
