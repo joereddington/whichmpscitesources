@@ -31,15 +31,22 @@ access_key = config.get('twitter', 'access_key')
 access_secret = config.get('twitter', 'access_secret')
 
 
-def get_all_handles(filename):
-        """Returns all of the twitter handles in the filename"""
-        file = open(filename)
-        screennames = []
-        for rawline in file:
-                splitline = rawline.split('@')
-                screennames.insert(0, splitline[1])
-        return screennames
 
+def get_all_handles():
+    ids=[]
+    import urllib, json
+    url = "https://cdn.rawgit.com/everypolitician/everypolitician-data/2fcff6382b2abf8e490893fcff0e6e34f26b9f93/data/UK/Commons/ep-popolo-v1.0.json"
+    response = urllib.urlopen(url)
+    data = json.loads(response.read())
+    for mp in data['persons']:
+        if 'contact_details' in mp.keys():
+            contacts=mp['contact_details']
+            for contact in contacts:
+                if contact['type'] == "twitter":
+                  #  print "Name: {}, Twitter: {}".format(mp['name'],contact['value'])
+                    handle=contact['value']
+                    ids.append(handle)
+    return ids
 
 def get_all_tweets(screen_name):
                 # Twitter only allows access to a users most recent 3240 tweets with
@@ -53,7 +60,8 @@ def get_all_tweets(screen_name):
         # initialize a list to hold all the tweepy Tweets
         alltweets = []
 
-        # make initial request for most recent tweets (200 is the maximum
+
+  # make initial request for most recent tweets (200 is the maximum
         # allowed count)
         try:
 		new_tweets = api.user_timeline( screen_name=screen_name, count=200)
@@ -118,6 +126,6 @@ def get_all_tweets(screen_name):
 
 
 if __name__ == '__main__':
-        names = get_all_handles('mps.txt')
+        names = get_all_handles()
         for mp in names:
                 get_all_tweets(mp)
