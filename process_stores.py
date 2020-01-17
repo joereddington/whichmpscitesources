@@ -58,9 +58,10 @@ def process_file(filename, database, cutoff_date=None):
 
 
 def populate_database():
+        import glob
         database = {}
-        for f in os.listdir('full'):
-                process_file('full/'+f, database)
+        for f in glob.glob('full/*.csv'):
+                process_file(f, database)
         return database
 
 
