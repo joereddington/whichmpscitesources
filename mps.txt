@@ -1,570 +1,589 @@
-Tracy Brabin MP @TracyBrabin
-Guto Bebb @GutoBebb
-Ed Vaizey  @edvaizey
-Danny Kinahan @DdeBK
-Ann Clwyd  @AnnClwyd
-Alan Mak  @AlanMakMP
-john spellar @spellar
-Bill Cash @BillCashMP
-Pat Glass @PatGlassMP
-Ian Lucas  @IanCLucas
-Keith Vaz  @Keith_Vaz
-Rupa Huq MP  @RupaHuq
-Lyn Brown @lynbrownmp
-Bob Neill  @neill_bob
-Nick Gibb @NickGibbMP
-Mike Gapes  @MikeGapes
-Cat Smith  @CatSmithMP
-John Glen  @JohnGlenMP
-Mike Kane  @MikeKaneMP
-Tim Farron  @timfarron
-Nic Dakin  @NicDakinMP
-Lisa Nandy  @lisanandy
-Greg Hands  @GregHands
-Kate Hollern @CllrKate
-Jake Berry  @JakeBerry
-Neil Coyle  @coyleneil
-Melanie Onn MP @OnnMel
-John Mann  @JohnMannMP
-HebridesMP @hebridesmp
-Damian  @damiangreenmp
-Hugo Swire  @HugoSwire
-Kate Hoey  @KateHoeyMP
-Mark Tami  @MarkTamiMP
-Steve Brine MP  @sbrine
-tom_watson  @tom_watson
-Damian Hinds  @damian57
-Mike Wood MP @mikejwood
-Nick Clegg  @nick_clegg
-Kerry McCarthy @KerryMP
-Mike Weir  @mikeweirsnp
-Sue Hayman  @SueHayman1
-Simon Hart @Simonhartmp
-John Cryer @JohnCryerMP
-Lucy Allan MP @lucyallan
-Paul Scully MP  @scullyp
-David Lammy  @DavidLammy
-Norman Lamb  @normanlamb
-Sajid Javid  @sajidjavid
-Will Quince  @willquince
-Peter Kyle MP @peterkyle
-Steve Reed  @SteveReedMP
-Liam Byrne  @LiamByrneMP
-Ben Gummer  @ben4ipswich
-Mark Pawsey  @MarkPawsey
-Alun Cairns  @AlunCairns
-Ian Murray  @IanMurrayMP
-Mark Field  @MarkFieldMP
-chi onwurah  @ChiOnwurah
-Paul Flynn  @PaulFlynnMP
-Kate Green  @KateGreenSU
-Scott Mann  @scottmannmp
-Ben Wallace  @BWallaceMP
-Greg Clark  @gregclarkmp
-MimsDaviesMP @mimsdavies
-Jo Johnson  @JoJohnsonMP
-Dan Jarvis  @DanJarvisMP
-Ian Austin  @IanAustinMP
-Naz Shah MP  @NazShahBfd
-Karin Smyth  @karinsmyth
-Stephen Crabb  @scrabbmp
-Jim Fitzpatrick  @FitzMP
-Peter Bone  @PeterBoneMP
-Nick Boles  @NickBolesMP
-David Gauke  @DavidGauke
-Patrick Grady  @GradySNP
-@MhairiBlack @Mhairi1921
-teresa pearce @tpearce003
-Jeff Smith  @JeffSmithetc
-Rosena Allin-Khan @DrRosena
-Sam Gyimah MP  @SamGyimah
-Ed Miliband  @Ed_Miliband
-Paul Maskey @PaulMaskeyMP
-John Redwood @johnredwood
-Liz Kendall @leicesterliz
-Ruth Cadbury @RuthCadbury
-Jeremy Hunt  @Jeremy_Hunt
-Nick Hurd MP  @nickhurdmp
-Ben Howlett MP  @ben4bath
-Maria Eagle MP  @meaglemp
-Ivan Lewis  @IvanLewis_MP
-Maggie Throup MP @mthroup
-Karen Buck  @KarenPBuckMP
-Helen Hayes  @helenhayes_
-Roger Mullin MP  @RogMull
-Neil Gray MP  @NeilGrayMP
-Tom Elliott @telliott_UUP
-Barbara Keeley  @KeeleyMP
-Owen Smith  @OwenSmith_MP
-Clive Efford @CliveEfford
-Deidre Brock @DeidreBrock
-Iain Wright @IainWrightMP
-Mark Prisk MP  @PriskMark
-Peter Lilley @LilleyPeter
-Ann Coffey  @anncoffey_mp
-John Pugh MP  @johnpughmp
-Peter Dowd MP @Peter_Dowd
-John Howell @JohnHowellMP
-Mark Hendrick @MpHendrick
-David Mowat MP  @mowat4ws
-Pat Doherty @PatDohertyMP
-Khalid Mahmood @khalid4PB
-Juliansturdy @Juliansturdy
-Grant Shapps  @grantshapps
-Gavin Shuker  @gavinshuker
-Andrew Percy  @andrewpercy
-stellacreasy @stellacreasy
-David Jones  @DavidJonesMP
-Matt Warman MP @mattwarman
-Flick Drummond MP  @FlickD
-Steve McCabe @steve_mccabe
-Tom Brake MP  @thomasbrake
-Adam Afriyie  @AdamAfriyie
-Helen Grant  @HelenGrantMP
-Chuka Umunna  @ChukaUmunna
-Rob Wilson  @RobWilson_RDG
-Elizabeth Truss  @trussliz
-Jesse Norman @Jesse_Norman
-Nigel Dodds @NigelDoddsDUP
-Tim Loughton  @timloughton
-Tulip Siddiq  @TulipSiddiq
-Alan Duncan  @AlanDuncanMP
-Angela Eagle  @angelaeagle
-Louise Haigh MP  @LouHaigh
-Mary Creagh  @MaryCreaghMP
-Jon Trickett @jon_trickett
-Alex Salmond  @AlexSalmond
-Pete Wishart  @PeteWishart
-Anne Milton  @AnneMiltonMP
-Glyn Davies  @glyndaviesmp
-Chloe Smith  @NorwichChloe
-Heidi Alexander  @heidi_mp
-Hilary Benn  @hilarybennmp
-Jon Cruddas  @JonCruddas_1
-Dr Liam Fox MP  @LiamFoxMP
-Victoria Atkins  @vmatkins
-stephen kinnock  @SKinnock
-Andrew Jones MP  @AJonesMP
-Chris Green  @ChrisGreenMP
-Christina Rees @Rees4Neath
-Alex Chalk @AlexChalkChelt
-Derek Twigg  @DerekTwiggMP
-Rob Marris MP  @WSW_Labour
-Ian Paisley  @ianpaisleymp
-Liz McInnes  @LizMcInnesMP
-Sammy Wilson @eastantrimmp
-Simon Hoare @Simon4NDorset
-Kit Malthouse @kitmalthouse
-Ruth Smeeth MP  @RuthSmeeth
-Jenny Chapman @JennyChapman
-Anna Turley MP  @annaturley
-Ben Bradshaw  @BenPBradshaw
-Pat McFadden @patmcfaddenmp
-John Woodcock  @JWoodcockMP
-Mark Durkan MP  @markdurkan
-Clive Lewis MP @labourlewis
-Andrew Gwynne MP  @GwynneMP
-James Gray MP  @JamesGrayMP
-Chris Philp  @chrisphilp_mp
-Seema Kennedy @SeemaKennedy
-Conor Murphy @conormurphysf
-Byron Davies  @Byron_Davies
-angela smith @angelasmithmp
-Peter Aldous  @peter_aldous
-Ian Lavery MP  @IanLaveryMP
-Mike Freer MP  @mikefreermp
-Conor Burns  @conorburns_mp
-Wayne David  @WayneDavid_MP
-Kate Osamor MP  @KateOsamor
-Chris Skidmore @cskidmoremp
-Nia Griffith @NiaGriffithMP
-Nick Smith  @BlaenauGwentMP
-Ian Mearns MP  @IanMearnsMP
-Natascha Engel  @nengel4ned
-Graham Brady @Graham__Brady
-Philip Dunne  @Dunne4Ludlow
-Marcus Fysh MP  @MarcusFysh
-Nicholas Soames  @nsoamesmp
-Keir Starmer  @Keir_Starmer
-Kirsty Blackman  @KirstySNP
-Philip Hammond  @PHammondMP
-Kevin Barron @KevinBarronMP
-Gill Furniss MP @GillFurnissMP
-Alberto Costa @Costa4SLeics
-Derek Thomas @DerekThomasMP
-Shailesh Vara @ShaileshVara
-Paul Maynard  @PaulMaynardMP
-Matt Hancock  @MattHancockMP
-Steve Double MP @stevedouble
-Sarah Olney MP @sarahjolney1
-Lucy Powell MP  @LucyMPowell
-Simon Danczuk  @SimonDanczuk
-Nicky Morgan  @NickyMorgan01
-Stephen Twigg  @StephenTwigg
-Toby Perkins  @tobyperkinsmp
-Tracey Crouch @tracey_crouch
-Royston Smith @Royston_Smith
-Martyn Day MP  @MartynDaySNP
-Nick Herbert  @nickherbertmp
-Bill Esterson @Bill_Esterson
-Nadhim Zahawi  @nadhimzahawi
-David Hanson  @DavidHansonMP
-Rory Stewart  @RoryStewartUK
-Julie Hilling  @JulieHilling
-Andy Burnham  @andyburnhammp
-James Morris @JamesMorrisHRR
-Craig Mackinlay  @cmackinlay
-Rushanara Ali  @rushanaraali
-Gavin Robinson @GRobinsonDUP
-MegHillierMP  @Meg_HillierMP
-Anna Soubry MP  @Anna_Soubry
-Chris Leslie  @ChrisLeslieMP
-Rebecca Pow MP  @pow_rebecca
-Holly Lynch MP  @HollyLynch5
-Graham Evans  @GrahamEvansMP
-Calum Kerr MP  @CalumKerrSNP
-James Heappey MP  @JSHeappey
-Denis Skinner @BolsoverBeast
-Amber Rudd MP  @AmberRudd_MP
-David Lidington  @DLidington
-Andrew Smith  @AndrewSmithMP
-David Rutley  @DavidRutleyMP
-Stephen Doughty  @SDoughtyMP
-Charlotte Leslie  @CLeslieMP
-andrew murrison  @murrisonMP
-Bob Blackman  @bobblackmanmp
-Kevan Jones MP @KevanJonesMP
-Sarah Newton  @SarahNewtonMP
-Helen Jones MP @HelenJonesMP
-Jo Stevens  @JoStevensLabour
-Albert Owen MP @AlbertOwenMP
-David Crausby  @DavidCrausby
-Andrew Turner  @TheIslandsMP
-Karen Lumley MP  @Tell_Karen
-Alan Brown MP  @AlanBrownSNP
-Peter Grant MP @PeterGrantMP
-Boris Johnson  @BorisJohnson
-Steve Baker MP  @SteveBakerHW
-Harriett Baldwin  @HBaldwinMP
-Emma Reynolds @EmmaReynoldsMP
-Conor McGinn MP  @ConorMcGinn
-Jackie Doyle-Price  @JackieDP
-Kevin Foster  @kevin_j_foster
-Therese Coffey @theresecoffey
-margot james @margot_james_mp
-Marion Fellows MP  @marion53f
-Fiona Mactaggart  @fionamacmp
-Claire Perry  @claire4devizes
-Stephen Timms  @stephenctimms
-Robert Courts MP @robertcourts
-Dawn Butler  @DawnButlerBrent
-Mhairi Black MP  @MhairiBlack
-George Kerevan @GeorgeKerevan
-Helen Whately  @Helen_Whately
-Jonathan Djanogly  @JDjanogly
-Jane Ellison MP  @JaneEllison
-Ronnie Cowan MP  @ronniecowan
-Guy Opperman MP  @GuyOpperman
-Oliver Letwin @OliverLetwinMP
-vickyfoxcroft  @vickyfoxcroft
-@theSNP MP for Aberdeen South
-Phil Wilson MP  @PhilWilsonMP
-Amanda Milling @amandamilling
-Jack Dromey MP  @JackDromeyMP
-Heidi Allen MP  @heidiallen75
-Karl Turner MP  @KarlTurnerMP
-Neil Carmichael  @stroud_neil
-Keith Simpson @KeithSimpsonMP
-Mark Pritchard  @MPritchardMP
-Henry Smith MP  @HenrySmithMP
-Andy McDonald @AndyMcDonaldMP
-Nigel Mills MP  @NigelMillsMP
-Francie Molloy @FrancieMolloy
-Gordon Marsden @GordonMarsden
-Desmond Swayne @DesmondSwayne
-Derek Thomas @DerekThomas2015
-Robert Syms MP  @robertsymsmp
-James Berry MP  @JamesBerryMP
-Dr Dan Poulter  @drdanpoulter
-David Davis MP  @DavidDavisMP
-Jo Churchill MP @Jochurchill4
-Huw Merriman MP  @HuwMerriman
-Richard Bacon @Bacon4SNorfolk
-Eleanor Laing @eleanor4epping
-Victoria Borwick @backborwick
-Chris Evans MP  @ChrisEvansMP
-James Cleverly  @JamesCleverly
-Damian Collins  @DamianCollins
-Michael Ellis  @Michael_Ellis1
-Harriet Harman  @HarrietHarman
-Jess Phillips MP @jessphillips
-Mark Garnier  @Mark4WyreForest
-Frank Field MP @frankfieldteam
-Luciana Berger  @lucianaberger
-Kevin Brennan  @KevinBrennanMP
-Karl McCartney  @karlmccartney
-Seema Malhotra @SeemaMalhotra1
-Rachel Reeves  @RachelReevesMP
-Stephen Hammond MP  @S_Hammond
-Grahame Morris  @grahamemorris
-Sir Eric Pickles  @EricPickles
-Diana Johnson  @DianaJohnsonMP
-Caroline Lucas  @CarolineLucas
-Chris White MP  @ChrisWhite_MP
-Iain Stewart MP  @iainastewart
-Barry Gardiner  @BarryGardiner
-Margaret Hodge  @margarethodge
-Karen Bradley  @karen__bradley
-Madeleine Moon  @MadeleineMoon
-Tom Blenkinsop  @TomBlenkinsop
-Gareth Snell @gareth_snell
-Craig Tracey MP  @craig4nwarks
-Mark Spencer MP  @Mark_Spencer
-Joan Ryan MP  @joanryanEnfield
-Caroline Nokes  @carolinenokes
-Kelly Tolhurst  @KellyTolhurst
-Gareth Thomas  @GarethThomasMP
-Bernard Jenkin  @bernardjenkin
-Matthew Offord  @Offord4Hendon
-Roger Godsiff MP @RogerGodsiff
-Barry Sheerman  @BarrySheerman
-Drew Hendry MP  @drewhendrySNP
-Steve Barclay  @SteveBarclayMP
-Helen Goodman  @HelenGoodmanMP
-Valerie Vaz MP  @Valerie_VazMP
-Yvette Cooper  @YvetteCooperMP
-John Healey MP  @JohnHealey_MP
-Jeremy Lefroy  @JeremyLefroyMP
-Mark Harper MP  @Mark_J_Harper
-Caroline Spelman MP  @spelmanc
-Yvonne Fovargue  @Y_FovargueMP
-Craig Whittaker  @CWhittakerMP
-Wendy Morton MP  @morton_wendy
-Alistair Burt  @AlistairBurtMP
-Jack Lopresti  @Jackloprestimp
-Ian Blackford @IBlackfordSNPMP
-Marcus Jones  @Marcus4Nuneaton
-Tom Tugendhat MP @TomTugendhat
-JOHN NICOLSON  @MrJohnNicolson
-Liz Saville Roberts  @LSRPlaid
-Alan Campbell  @alancampbellmp
-Mickey Brady MP @MickeyBradySF
-John McNally MP @JohnMcNallyMP
-Graham Stuart MP  @grahamstuart
-Brandon Lewis MP  @BrandonLewis
-Pauline Latham  @Pauline_Latham
-David Mundell  @DavidMundellDCT
-Robert Halfon  @halfon4harlowMP
-Wes Streeting MP  @wesstreeting
-Stuart Andrew MP  @StuartAndrew
-Chris Bryant MP  @RhonddaBryant
-Anne McLaughlin @AnneMcLaughlin
-Gisela Stuart MP  @GiselaStuart
-Owen Thompson MP  @OwenThompson
-Louise Ellman MP  @LouiseEllman
-John McDonnell @johnmcdonnellMP
-Andrew Bingham  @HighPeakAndrew
-Andrew Selous MP  @AndrewSelous
-George Freeman  @Freeman_George
-Jeremy Corbyn MP  @jeremycorbyn
-Mark Williams  @mark4ceredigion
-Paul Beresford @PaulBeresfordMP
-Alex Cunningham  @ACunninghamMP
-Diane Abbott MP  @HackneyAbbott
-R. Blackman-Woods  @robertabwMP
-David Morris MP  @Davidmpmorris
-Stewart Hosie  @StewartHosieSNP
-Andrew Griffiths  @agriffithsmp
-Angela Rayner MP  @AngelaRayner
-Margaret Ritchie MP @MRitchieMP
-Dr Phillip Lee  @DrPhillipLeeMP
-Caroline Dinenage  @cj_dinenage
-Dr Caroline Johnson @drcarolinej
-Alan Whitehead @alanwhiteheadmp
-Ranil Jayawardena MP @TellRanil
-Edward Leigh MP  @EdwardLeighMP
-Graham Allen MP  @GrahamAllenMP
-Gerald Jones MP @GeraldJonesLAB
-David Davies MP  @DavidTCDavies
-Julian Smith MP  @juliansmithmp
-George Osborne  @George_Osborne
-Richard Graham @RichardGrahamMP
-Alok Sharma MP  @AlokSharma_RDG
-Marie Rimmer MP  @MarieRimmerMP
-Sir Edward Garnier  @EGarnierMP
-Carolyn Harris @carolynharris24
-Stephen Hepburn  @jarrowstevemp
-Rehman Chishti  @Rehman_Chishti
-Adrian Bailey  @AdrianBailey4MP
-Carol Monaghan MP  @CMonaghanMP
-Patricia Gibson MP  @PGibsonSNP
-Phil Boswell MP @PhilBoswellSNP
-Gareth Johnson @GarethJohnsonMP
-Leader's Office  @CommonsLeader
-Sir Greg Knight MP @gregknightmp
-Anne-Marie Trevelyan  @annietrev
-Angus Robertson  @AngusRobertson
-David Burrowes  @davidburrowesmp
-Jessica Morden  @jessicamordenmp
-Jonathan Edwards  @JonathanPlaid
-Chris Heaton-Harris  @chhcalling
-Anne Marie Morris MP @AMMorrisMP
-Vernon Coaker MP  @Vernon_Coaker
-James Brokenshire  @JBrokenshire
-Jim McMahon MP  @JimfromOldham
-Alison Thewliss  @alisonthewliss
-Richard Benyon  @RichardBenyonMP
-James Duddridge  @JamesDuddridge
-John Penrose MP @JohnPenroseNews
-David Warburton MP  @DJWarburton
-Mark Lancaster  @MarkLancasterMK
-Caroline Flint  @CarolineFlintMP
-Callum McCaig MP  @callum_mccaig
-Andrew Bridgen  @AndrewBridgenMP
-Gavin Williamson  @GWilliamsonMP
-Paul Blomfield  @PaulBlomfieldMP
-Stephen Metcalfe  @Metcalfe_SBET
-Daniel Zeichner  @DanielZeichner
-Nadine Dorries  @NadineDorriesMP
-Rebecca Harris  @RebeccaHarrisMP
-Caroline Ansell @Caroline_Ansell
-Corri Wilson MP  @CorriWilsonSNP
-Martin Vickers  @martinvickersmp
-Mary Robinson MP @MaryRobinson01
-julian knight mp @julianknight15
-Andrea Jenkyns MP @andreajenkyns
-Tom Pursglove MP  @VotePursglove
-Margaret Greenwood @MGreenwoodWW
-William Wragg MP  @William_Wragg
-Chris Law MP (SNP)  @ChrisLawSNP
-Robert Jenrick MP @RobertJenrick
-Chris Davies MP  @ChrisDavies_MP
-Dr Lisa Cameron  @lisacameronsnp
-Dave Anderson MP @DaveAndersonMP
-David Evennett MP  @DavidEvennett
-Sheryll Murray MP  @sheryllmurray
-Alison McGovern  @Alison_McGovern
-Greg Mulholland  @GregMulholland1
-Paula Sherriff MP  @paulasherriff
-Andrea Leadsom MP  @andrealeadsom
-Crispin Blunt MP  @crispinbluntmp
-Antoinette Sandbach  @ASandbachMP
-Johnny Mercer MP  @JohnnyMercerMP
-Julie Cooper MP  @JulieForBurnley
-David Nuttall MP  @DavidNuttallMP
-Geoffrey Cox QC MP  @Geoffrey_Cox
-Sir Peter Bottomley @PBottomleyMP
-Rosie Cooper MP  @rosie4westlancs
-Philip Davies MP  @PhilipDaviesMP
-John Whittingdale  @JWhittingdale
-James Wharton MP  @jameswhartonuk
-Michael Dugher MP  @MichaelDugher
-Debbie Abrahams  @Debbie_abrahams
-Gavin Barwell MP  @GavinBarwellMP
-Chris Stephens MP  @ChrisStephens
-Tommy Sheppard MP  @TommySheppard
-Cheryl Gillan MP  @CherylGillanMP
-Rebecca Long-Bailey @RLong_Bailey
-Oliver Colvile MP  @olivercolvile
-Judith Cummins MP  @JudithCummins
-Richard Burgon MP  @RichardBurgon
-Emma Lewell-Buck  @EmmaLewellBuck
-Julie Elliott MP  @JulieElliottMP
-Tasmina Sheikh MP  @TasminaSheikh
-Robin Walker MP  @WalkerWorcester
-Kirsten Oswald MP  @kirstenoswald
-David Simpson MP @DavidSimpsonDUP
-Justin Madders MP  @justinmadders
-Patrick McLoughlin @Patrick4Dales
-Edward Timpson MP  @edwardtimpson
-Jonathan Reynolds MP  @jreynoldsMP
-Michael Fabricant  @Mike_Fabricant
-Bridget Phillipson  @bphillipsonMP
-Lilian Greenwood  @LilianGreenwood
-Matthew Pennycook MP  @mtpennycook
-Dr James Davies MP  @jamesdaviesmp
-Charlie Elphicke  @CharlieElphicke
-Nicola Blackwood  @nicolablackwood
-Rachael Maskell MP @RachaelMaskell
-Alistair Carmichael @acarmichaelmp
-Sir Gerald Howarth  @geraldhowarth
-Stewart Jackson MP  @Stewart4Pboro
-Eilidh Whiteford  @EilidhWhiteford
-Alec Shelbrooke MP @AlecShelbrooke
-Jonathan Ashworth MP  @JonAshworth
-Gloria De Piero MP  @GloriaDePiero
-Emily Thornberry  @EmilyThornberry
-Christopher Pincher  @ChrisPincher
-Michael Tomlinson MP @Michael4MDNP
-Justin Tomlinson MP  @JTomlinsonMP
-Thangam DebbonaireMP  @tdebbonaire
-Jeffrey Donaldson  @J_Donaldson_MP
-Steve Rotheram MP  @Steve_Rotheram
-Catherine West MP  @CatherineWest1
-Stephen McPartland  @SMcPartlandMP
-Penny Mordaunt MP @PennyMordauntMP
-Tobias Ellwood MP  @Tobias_Ellwood
-Lindsay Hoyle MP  @LindsayHoyle_MP
-Justine Greening  @JustineGreening
-Craig Williams MP  @Craig4CardiffN
-Chris Matheson MP  @ChrisM4Chester
-Owen Paterson MP  @Owen_PatersonMP
-Laurence RobertsonMP @lrobertsonmp
-Brendan O'Hara MP @BrendanOHaraSNP
-Imran Hussain MP  @Imran_HussainMP
-Hannah Bardell MP  @HannahB4LiviMP
-Robert Buckland MP  @RobertBuckland
-Jason McCartney MP  @JasonMcCartney
-Heather Wheeler MP  @HeatherWheeler
-Virendra Sharma MP  @VirendraSharma
-Andy Slaughter MP  @hammersmithandy
-Yasmin Qureshi MP  @YasminQureshiMP
-Alasdair McDonnell  @AlasdairMcD_MP
-Natalie McGarry MP  @NatalieMcGarry
-Gavin Newlands MP  @GavinNewlandsMP
-Geraint Davies MP  @GeraintDaviesMP
-Sharon Hodgson MP  @SharonHodgsonMP
-Sir Oliver Heald MP  @OliverHealdMP
-Maria Caulfield MP  @mariacaulfield
-John Stevenson MP  @JohnStevensonMP
-Douglas Chapman MP  @DougChapmanSNP
-Richard Burden MP  @RichardBurdenMP
-Stuart Donaldson MP  @StuBDonaldson
-Dr Paul Monaghan MP  @_PaulMonaghan
-Angela Crawley MP  @AngelaCrawleyMP
-Shabana Mahmood MP  @ShabanaMahmood
-Sarah Wollaston MP  @sarahwollaston
-Sarah Champion MP  @SarahChampionMP
-Stephen Gethins MP  @StephenGethins
-Dr Tania Mathias MP  @tania_mathias
-Sir Malcolm Rifkind @MalcolmRifkind
-Richard Arkless MP  @ArklessRichard
-Rt Hon Lord Maude  @UKTradeMinister
-Daniel Kawczynski MP  @KawczynskiMP
-Joanna Cherry QC MP  @joannaccherry
-Philippa Whitford MP @P_Whitford_MP
-Nick Thomas-Symonds  @NickTorfaenMP
-AngelaWatkinsonMP  @AngelaWatkinson
-Martin Docherty MP  @MartinJDocherty
-Angus B MacNeil MP  @AngusMacNeilSNP
-Richard Harrington  @Richard4Watford
-Catherine McKinnell  @CatMcKinnellMP
-Andrew Stephenson MP  @Andrew4Pendle
-Chris Elmore MP @CPJElmore
-Stuart McDonald MP  @Stuart_McDonald
-Nigel Huddleston MP @HuddlestonNigel
-Suella Fernandes MP @SuellaFernandes
-James Cartlidge MP  @jc4southsuffolk
-Steven Paterson MP  @Steven4Stirling
-Susan Elan Jones MP  @susanelanjones
-Stewart McDonald MP  @StewartMcDonald
-Andrew Rosindell MP  @AndrewRosindell
-Michelle Thomson MP  @MichelleThomson
-Douglas Carswell MP  @DouglasCarswell
-Kevin Hollinrake MP  @kevinhollinrake
-David Mackintosh MP  @davidmackintosh
-Michelle Donelan MP  @michelledonelan
-Victoria Prentis MP  @VictoriaPrentis
-Margaret Ferrier MP  @MargaretFerrier
-Hywel Williams AS/MP  @HywelPlaidCymru
-Peter Heaton-JonesMP  @PeterNorthDevon
+aron Bell @AaronBell4NUL 
+Abena Oppong-Asare @abenaopp 
+Adam Afriyie @AdamAfriyie 
+Afzal Khan @Afzal4Gorton 
+Alan Brown @AlanBrownSNP 
+Alan Campbell @alancampbellmp 
+Alan Mak @AlanMakMP 
+Alberto Costa @AlbertoCostaMP 
+Alec Shelbrooke @AlecShelbrooke 
+Alex Burghart @alexburghart 
+Alex Chalk @AlexChalkChelt 
+Alex Cunningham @ACunninghamMP 
+Alex Davies-Jones @AlexDaviesJones 
+Alex Norris @AlexNorrisNN 
+Alex Sobel @alexsobel 
+Alexander Stafford @Alex_Stafford 
+Alicia Kearns @aliciakearns 
+Alison McGovern @Alison_McGovern 
+Alison Thewliss @alisonthewliss 
+Alistair Carmichael @amcarmichaelMP 
+Alok Sharma @AlokSharma_RDG 
+Alun Cairns @AlunCairns 
+Alyn Smith @AlynSmith 
+Amanda Milling @amandamilling 
+Amanda Solloway @ASollowayUK 
+Amy Callaghan @AmyCallaghanSNP 
+Andrea Jenkyns @andreajenkyns 
+Andrea Leadsom @andrealeadsom 
+Andrew Bowie @AndrewBowie_MP 
+Andrew Bridgen @ABridgen 
+Andrew Griffith @griffitha 
+Andrew Gwynne @GwynneMP 
+Andrew Jones @AJonesMP 
+Andrew Lewer @ALewerMBE 
+Andrew Rosindell @AndrewRosindell 
+Andrew Selous @AndrewSelous 
+Andrew Stephenson @Andrew4Pendle 
+Andy Carter @MrAndy_Carter 
+Andy McDonald @AndyMcDonaldMP 
+Andy Slaughter @hammersmithandy 
+Angela Eagle @angelaeagle 
+Angela Rayner @AngelaRayner 
+Angela Richardson @AJRichardsonMP 
+Angus MacNeil @AngusMacNeilSNP 
+Anna McMorrin @AnnaMcMorrin 
+Anne Marie Morris @AnneMarieMorris 
+Anne McLaughlin @AnneMcLaughlin 
+Anne-Marie Trevelyan @annietrev 
+Anneliese Dodds @AnnelieseDodds 
+Anthony Browne @ab4scambs 
+Anthony Mangnall @AnthonyMangnal1 
+Antony Higginbotham @antony_hig 
+Apsana Begum @ApsanaBegumMP 
+Bambos Charalambous @Bambos_MP 
+Barbara Keeley @KeeleyMP 
+Barry Gardiner @BarryGardiner 
+Barry Sheerman @BarrySheerman 
+Bell Ribeiro-Addy @BellRibeiroAddy 
+Ben Bradley @BBradley_Mans 
+Ben Bradshaw @BenPBradshaw 
+Ben Everitt @Ben_Everitt 
+Ben Lake @BenMLake Plaid Cymru Ceredigion 7,524 ▲ 2 
+Ben Spencer @DrBenSpencer 
+Ben Wallace @BWallaceMP 
+Bernard Jenkin @bernardjenkin 
+Beth Winter @BethWinterMP 
+Bill Esterson @Bill_Esterson 
+Bim Afolami @BimAfolami 
+Bob Blackman @BobBlackman 
+Bob Seely @IoWBobSeely 
+Boris Johnson @BorisJohnson 
+Brandon Lewis @BrandonLewis 
+Brendan Clarke-Smith @Bren4Bassetlaw 
+Brendan O'Hara @BrendanOHaraMP 
+Bridget Phillipson @bphillipsonMP 
+Carla Lockhart @carlalockhart Democratic Unionist Party Upper Bann 7,746 ▲ 4 
+Carol Monaghan @CMonaghanSNP 
+Caroline Ansell @Caroline_Ansell 
+Caroline Dinenage @cj_dinenage 
+Caroline Lucas @CarolineLucas Green Party Brighton, Pavilion 469,218 ▲ 64 
+Caroline Nokes @carolinenokes 
+Carolyn Harris @carolynharris24 
+Cat Smith @CatSmithMP 
+Catherine McKinnell @CatMcKinnell 
+Catherine West @CatherineWest1 
+Charles Walker @CharlesWalkerMP 
+Charlotte Nichols @charlotte2153 
+Cherilyn Mackrory @thisischerilyn 
+Cheryl Gillan @CherylGillan 
+Chi Onwurah @ChiOnwurah 
+Chloe Smith @NorwichChloe 
+Chris Bryant @RhonddaBryant 
+Chris Clarkson @ChrisClarksonMP 
+Chris Elmore @CPJElmore 
+Chris Evans @Chris_EvansMP 
+Chris Green @CGreenUK 
+Chris Heaton-Harris @chhcalling 
+Chris Law @ChrisLawSNP 
+Chris Loder @chrisloder 
+Chris Philp @CPhilpOfficial 
+Chris Skidmore @CSkidmoreUK 
+Chris Stephens @ChrisStephens 
+Christian Matheson @ChrisM4Chester 
+Christian Wakeford @Christian4BuryS 
+Christina Rees @Rees4Neath 
+Christine Jardine @cajardineMP 
+Christopher Hazzard @ChrisHazzardSF Sinn Féin South Down 18,056 ▲ 2 
+Christopher Pincher @ChrisPincher 
+Claire Hanna @ClaireHanna Social Democratic and 
+Claudia Webbe @ClaudiaWebbe 
+Clive Efford @CliveEfford 
+Clive Lewis @labourlewis 
+Colum Eastwood @columeastwood Social Democratic and 
+Conor Burns @ConorBurnsUK 
+Conor McGinn @ConorMcGinn 
+Craig Mackinlay @cmackinlay 
+Craig Tracey @craig4nwarks 
+Craig Whittaker @CWhittaker_MP 
+Craig Williams @craig4monty 
+Crispin Blunt @CrispinBlunt 
+Daisy Cooper @libdemdaisy 
+Damian Collins @DamianCollins 
+Damian Green @DamianGreen 
+Damian Hinds @DamianHinds 
+Dan Carden @DanCardenMP 
+Dan Jarvis @DanJarvisMP 
+Daniel Kawczynski @DKShrewsbury 
+Daniel Zeichner @DanielZeichner 
+Danny Kruger @danny__kruger 
+Darren George Henry @DarrenG_Henry 
+Darren Jones @darrenpjones 
+Dave Doogan @DaveDooganSNP 
+David Amess @amessd_southend 
+David Davis @DavidDavisMP 
+David Duguid @david_duguid 
+David Evennett @DavidEvennett 
+David Johnston @david4wantage 
+David Jones @DavidJonesMP 
+David Lammy @DavidLammy 
+David Linden @DavidLinden 
+David Morris @davidmorrisml 
+David Mundell @DavidMundellDCT 
+David Rutley @DavidRutley 
+David Simmonds @DSimmonds_RNP 
+David T. C. Davies @DavidTCDavies 
+David Warburton @DJWarburton 
+Dawn Butler @DawnButlerBrent 
+Dean Russell @dean4watford 
+Debbie Abrahams @Debbie_abrahams 
+Dehenna Davison @DehennaDavison 
+Deidre Brock @DeidreBrock 
+Derek Thomas @DerekThomasUK 
+Derek Twigg @DerekTwiggMP 
+Desmond Swayne @DesmondSwayne 
+Diana Johnson @DianaJohnsonMP 
+Diane Abbott @HackneyAbbott 
+Dominic Raab @DominicRaab 
+Douglas Chapman @DougChapmanSNP 
+Douglas Ross @Douglas4Moray 
+Dr Alan Whitehead @alanwhiteheadmp 
+Dr Andrew Murrison @AWMurrison 
+Dr Caroline Johnson @drcarolinej 
+Dr Liam Fox @LiamFox 
+Dr Philippa Whitford @Dr_PhilippaW 
+Dr Rosena Allin-Khan @DrRosena 
+Dr Rupa Huq @RupaHuq 
+Dr Thérèse Coffey @theresecoffey 
+Drew Hendry @drewhendrySNP 
+Duncan Charles Baker @duncancbaker 
+Eddie Hughes @EddieHughes4WN 
+Edward Davey @EdwardJDavey 
+Edward Leigh @EdwardLeighMP 
+Edward Miliband @Ed_Miliband 
+Edward Timpson @edwardtimpson 
+Eleanor Laing @eleanor4epping 
+Elizabeth Truss @trussliz 
+Ellie Reeves @elliereeves 
+Elliot Colburn @ElliotColburn 
+Emily Thornberry @EmilyThornberry 
+Emma Hardy @EmmaHardyMP 
+Emma Lewell-Buck @EmmaLewellBuck 
+Esther McVey @EstherMcVey1 
+Fabian Hamilton @FabianLeedsNE 
+Fay Alicia Jones @JonesyFay 
+Felicity Buchan @FelicityBuchan 
+Feryal Clark @FeryalClark 
+Fleur Anderson @PutneyFleur 
+Flick Drummond @FlickD 
+Florence Eshalomi @FloEshalomi 
+Francie Molloy @FrancieMolloy Sinn Féin Mid Ulster 7,185 ▲ 3 
+Gagan Mohindra @gaganmohindra 
+Gareth Bacon @GarethBaconMP 
+Gareth Davies @GarethDavies_MP 
+Gareth Thomas @GarethThomasMP 
+Gary Sambrook @GarySambrook89 
+Gary Streeter @garystreeterSWD 
+Gavin Newlands @GavNewlandsSNP 
+Gavin Robinson @GRobinsonDUP Democratic Unionist Party Belfast East 13,239 ▲ 3 
+Gavin Williamson @GavinWilliamson 
+Geoffrey Cox QC @Geoffrey_Cox 
+George Freeman @GeorgeFreemanMP 
+Geraint Davies @GeraintDaviesMP 
+Gerald Jones @GeraldJonesLAB 
+Giles Watling @GilesWatling 
+Gill Furniss @GillFurnissMP 
+Gillian Keegan @GillianKeegan 
+Graham Brady @SirGrahamBrady 
+Graham Stuart @grahamstuart 
+Grahame Morris @grahamemorris 
+Grant Shapps @grantshapps 
+Greg Clark @GregClarkMP 
+Greg Hands @GregHands 
+Greg Knight @GregKnight 
+Greg Smith @gregsmith_uk 
+Guy Opperman @GuyOpperman 
+Hannah Bardell @HannahB4LiviMP 
+Harriet Harman QC @HarrietHarman 
+Harriett Baldwin @hbaldwin 
+Heather Wheeler @HeatherWheeler 
+Helen Grant @HelenGrantMP 
+Helen Hayes @helenhayes_ 
+Helen Whately @Helen_Whately 
+Henry Smith @HenrySmithUK 
+Hilary Benn @hilarybennmp 
+Holly Lynch @HollyLynch5 
+Huw Merriman @HuwMerriman 
+Hywel Williams @HywelPlaidCymru Plaid Cymru Arfon 9,658 ▼ -1 
+Iain Duncan Smith @MPIainDS 
+Iain Stewart @iainastewart 
+Ian Blackford @Ianblackford_MP 
+Ian Byrne @IanByrneMP 
+Ian Lavery @IanLaveryMP 
+Ian Mearns @IanMearnsMP 
+Ian Murray @IanMurrayMP 
+Imran Hussain @Imran_HussainMP 
+Imran Nasir Ahmad Khan @imranahmadkhan 
+Jack Dromey @JackDromeyMP 
+Jack Lopresti @JackLopresti 
+Jackie Doyle-Price @JackieDP 
+Jacob Rees-Mogg @Jacob_Rees_Mogg 
+Jacob Young @JacobYoungMP 
+Jake Berry @JakeBerry 
+James Brokenshire @JBrokenshire 
+James Cartlidge @jc4southsuffolk 
+James Cleverly @JamesCleverly 
+James Daly @JamesDalyMP 
+James Davies @JamesDavies 
+James Duddridge @JamesDuddridge 
+James Gray @JGray 
+James Heappey @JSHeappey 
+James Morris @JamesMorris 
+James Murray @jamesmurray_ldn 
+James Sunderland @JamesSunderl 
+James Wild @jamesowild 
+Jamie Hamilton Wallis @JamieWallisMP 
+Jamie Stone @Jamie4North 
+Jane Hunt @JaneMHunt 
+Jane Stevenson @Jane_Stevenson_ 
+Janet Daby @JanetDaby 
+Jason McCartney @JasonMcCartney 
+Jeff Smith @JeffSmithetc 
+Jeffrey M. Donaldson @J_Donaldson_MP Democratic Unionist Party Lagan Valley 20,083 ▲ 1 
+Jeremy Corbyn @jeremycorbyn 
+Jeremy Hunt @Jeremy_Hunt 
+Jerome Mayhew @JeromeMayhew 
+Jess Phillips @jessphillips 
+Jesse Norman @Jesse_Norman 
+Jessica Morden @jessicamordenmp 
+Jim McMahon @JimfromOldham 
+Jim Shannon @JimShannonMP Democratic Unionist Party Strangford 2,631 ▼ -1 
+Jo Churchill @Jochurchill4 
+Jo Gideon @jogideon 
+Jo Stevens @JoStevens
+Joanna Cherry QC @joannaccherry 
+John Cryer @JohnCryerMP 
+John Finucane @johnfinucane Sinn Féin Belfast North 23,282 ▲ 23 
+John Glen @JohnGlenUK 
+John Healey @JohnHealey_MP 
+John Howell @JHowellUK 
+John Lamont @John2Win 
+John McDonnell @johnmcdonnellMP 
+John Nicolson @MrJohnNicolson 
+John Penrose @JohnPenroseNews 
+John Redwood @johnredwood 
+John Spellar @spellar 
+John Stevenson @John4Carlisle 
+John Whittingdale @JWhittingdale 
+Johnny McNally @JohnMcNallySNP 
+Johnny Mercer @JohnnyMercerUK 
+Jon Cruddas @JonCruddas_1 
+Jon Trickett @jon_trickett 
+Jonathan Ashworth @JonAshworth 
+Jonathan Djanogly @JDjanogly 
+Jonathan Lord @JonathanLord 
+Jonathan Reynolds @jreynoldsMP 
+Joy Morrissey @joymorrissey 
+Judith Cummins @JudithCummins 
+Julia Lopez @JuliaLopezMP 
+Julian Knight @julianknight15 
+Julian Smith @JulianSmithUK 
+Julian Sturdy @JulianSturdy 
+Julie Elliott @JulieElliottMP 
+Julie Marson @JulieMarsonMP 
+Justin Madders @justinmadders 
+Justin Tomlinson @JustinTomlinson 
+Karen Buck @KarenPBuckMP 
+Karin Smyth @karinsmyth 
+Karl McCartney @karlmccartney 
+Karl Turner @KarlTurnerMP 
+Kate Green @KateGreenSU 
+Kate Hollern @Kate_HollernMP 
+Kate Osamor @KateOsamor 
+Kate Osborne @KateOsborneMP 
+Katherine Fletcher @K_Fletcher_MP 
+Keir Starmer @Keir_Starmer 
+Kelly Tolhurst @KellyTolhurst 
+Kemi Badenoch @KemiBadenoch 
+Kenny MacAskill @KennyMacAskill 
+Kerry McCarthy @KerryMP 
+Kevan Jones @KevanJonesMP 
+Kevin Brennan @KevinBrennanMP 
+Kevin Foster @kevin_j_foster 
+Kevin Hollinrake @kevinhollinrake 
+Khalid Mahmood @khalid4PB 
+Kieran John Mullan @KieranMullanUK 
+Kim Johnson @KimJohnsonMP 
+Kirsten Oswald @kirstenoswald 
+Kirsty Blackman @KirstySNP 
+Kit Malthouse @kitmalthouse 
+Kwasi Kwarteng @KwasiKwarteng 
+Laura Farris @Laura__Farris 
+Laurence Robertson @lrobertsonTewks 
+Layla Moran @LaylaMoran 
+Lee Anderson @ashfield_lee 
+Lee Benjamin Rowley @Lee4NED 
+Leo Docherty @LeoDochertyUK 
+Lia Nici @lia_nici 
+Liam Byrne @liambyrnemp 
+Lilian Greenwood @LilianGreenwood 
+Lindsay Hoyle @LindsayHoyle_MP Speaker Chorley 35,612 ▲ 7 
+Lisa Cameron @DrLisaCameronMP 
+Lisa Nandy @lisanandy 
+Liz Kendall @leicesterliz 
+Liz Saville Roberts @LSRPlaid Plaid Cymru Dwyfor Meirionnydd 15,161 ▼ -3 
+Liz Twist @LizTwistMP 
+Lloyd Russell-Moyle @lloyd_rm 
+Louise Haigh @LouHaigh 
+Lucy Allan @lucyallan 
+Lucy Frazer @lucyfrazermp 
+Lucy Powell @LucyMPowell 
+Luke Evans @drlukeevans 
+Luke Hall @LukeHall 
+Luke Pollard @LukePollard 
+Lyn Brown @lynbrownmp 
+Maggie Throup @maggie_erewash 
+Marco Longhi @marcolonghi4dn 
+Marcus Fysh @MarcusFysh 
+Marcus Jones @Marcus4Nuneaton 
+Margaret Ferrier @MargaretFerrier 
+Margaret Greenwood @MGreenwoodWW 
+Margaret Hodge @margarethodge 
+Maria Caulfield @mariacaulfield 
+Maria Eagle @meaglemp 
+Maria Miller @MariaMillerUK 
+Marie Rimmer @MarieRimmer 
+Marion Fellows @marionfellows 
+Mark Eastwood @mark4dewsbury 
+Mark Garnier @Mark4WyreForest 
+Mark Harper @Mark_J_Harper 
+Mark Hendrick @MpHendrick 
+Mark Jenkinson @markjenkinsonmp 
+Mark Pawsey @MarkPawsey 
+Mark Pritchard @MPritchardUK 
+Mark Spencer @Mark_Spencer 
+Mark Tami @MarkTamiMP 
+Marsha de Cordova @MarshadeCordova 
+Martin Docherty-Hughes @MartinJDocherty 
+Martin Vickers @MartinVickers 
+Martyn Day @MartynDaySNP 
+Mary Foy @marykfoy 
+Mary Glindon @GlindonMary 
+Mary Robinson @MaryRobinson01 
+Matt Rodda @MattRodda 
+Matt Warman @mattwarman 
+Matt Western @MattWestern_ 
+Matthew Hancock @MattHancock 
+Matthew Offord @Offord4Hendon 
+Matthew Pennycook @mtpennycook 
+Meg Hillier @Meg_HillierMP 
+Mel Stride @MelJStride 
+Mhairi Black @MhairiBlack 
+Michael Ellis @Michael_Ellis1 
+Michael Fabricant @Mike_Fabricant 
+Michael Gove @michaelgove 
+Michael Tomlinson @Michael4MDNP 
+Michelle Donelan @michelledonelan 
+Michelle Gildernew @gildernewm Sinn Féin Fermanagh and South Tyrone 19,142 ▲ 3 
+Mick Whitley @MickWhitleyMP 
+Mickey Brady @MickeyBradySF Sinn Féin Newry and Armagh 4,924 ▲ 1 
+Mike Amesbury @MikeAmesburyMP 
+Mike Hill @MikeHillMP 
+Mike Kane @MikeKaneMP 
+Mike Wood @mikejwood 
+Mims Davies @mimsdavies 
+Mohammad Yasin @YasinForBedford 
+Munira Wilson @munirawilson 
+Nadhim Zahawi @nadhimzahawi 
+Nadia Whittome @NadiaWhittomeMP 
+Nadine Dorries @NadineDorries 
+Natalie Elphicke @NatalieElphicke 
+Nav Mishra @NavPMishra 
+Naz Shah @NazShahBfd 
+Neale Hanvey @JNHanvey 
+Neil Coyle @coyleneil 
+Neil Gray @neilgraysnp 
+Neil Hudson @DrNeilHudson 
+Neil O'Brien @NeilDotObrien 
+Neil Parish @neil_parish 
+Nia Griffith @NiaGriffithMP 
+Nicholas Fletcher @NickFletcherMP 
+Nick Gibb @NickGibbUK 
+Nick Smith @BlaenauGwentMP 
+Nick Thomas-Symonds @NickTorfaen 
+Nickie Aiken @twocitiesnickie 
+Nicola Faye Richards @Nicola4WBE 
+Nigel Adams @nadams 
+Nigel Evans @nigelmp 
+Nigel Huddleston @HuddlestonNigel 
+Nigel Mills @nigelmills 
+Nusrat Ghani @Nus_Ghani 
+Oliver Dowden @OliverDowden 
+Oliver Heald QC @OliverHealdUK 
+Olivia Frances Blake @_OliviaBlake 
+Órfhlaith Begley @OrfhlaithBegley Sinn Féin West Tyrone 7,286 ▲ 2 
+Owen Paterson @OwenPaterson 
+Owen Thompson @OwenThompson 
+Pat McFadden @patmcfaddenmp 
+Patricia Gibson @PGibsonSNP 
+Patrick Grady @GradySNP 
+Paul Blomfield @PaulBlomfieldMP 
+Paul Bristow @paulbristow79 
+Paul Girvan @PaulGirvanMP Democratic Unionist Party South Antrim 5,985 ▼ 0 
+Paul Holmes @pauljholmes 
+Paul Howell @PaulHowellMP 
+Paul Maskey @PaulMaskeyMP Sinn Féin Belfast West 17,778 ▲ 3 
+Paul Maynard @PaulMaynardUK 
+Paul Scully @scullyp 
+Paula Barker @PaulaBarkerMP 
+Pauline Latham @Pauline_Latham 
+Penny Mordaunt @PennyMordaunt 
+Pete Wishart @PeteWishart 
+Peter Aldous @peter_aldous 
+Peter Bone @PeterBoneUK 
+Peter Dowd @Peter_Dowd 
+Peter Gibson @Gibbo4Darlo 
+Peter Grant @PeterGrantMP 
+Peter Kyle @peterkyle 
+Philip Davies @PhilipDaviesUK 
+Philip Dunne @Dunne4Ludlow 
+Preet Gill @PreetKGillMP 
+Priti Patel @pritipatel 
+Rachael Maskell @RachaelMaskell 
+Rachel Hopkins @rach_hopkins 
+Rachel Maclean @redditchrachel 
+Rachel Reeves @RachelReevesMP 
+Ranil Jayawardena @TeamRanil 
+Rebecca Harris @RebeccaHarrisMP 
+Rebecca Long-Bailey @RLong_Bailey 
+Rebecca Pow @pow_rebecca 
+Rehman Chishti @Rehman_Chishti 
+Richard Bacon @richardbaconmp 
+Richard Burgon @RichardBurgon 
+Richard Gordon Thomson @RThomsonMP 
+Richard Graham @RichardGrahamUK 
+Richard Holden @RicHolden 
+Rishi Sunak @RishiSunak 
+Rob Butler @AylesburyTories 
+Rob Roberts @RobDelyn 
+Robbie Moore @_RobbieMoore 
+Robert Buckland @RobertBuckland 
+Robert Courts @robertcourts 
+Robert Halfon @halfon4harlowMP 
+Robert Jenrick @RobertJenrick 
+Robert Largan @robertlargan 
+Robert Neill @neill_bob 
+Robert Syms @RobertSyms 
+Robin John Millar @RobinMillarMP 
+Robin Walker @WalkerWorcester 
+Roger Gale @SirRogerGale 
+Ronnie Cowan @ronniecowan 
+Rosie Cooper @rosie4westlancs 
+Rosie Duffield @RosieDuffield1 
+Royston Smith @Royston_Smith 
+Rushanara Ali @rushanaraali 
+Ruth Cadbury @RuthCadbury 
+Ruth Edwards @RuthEdwardsMP 
+Ruth Jones @RuthNewportWest 
+Sajid Javid @sajidjavid 
+Sally-Ann Hart @SallyAnn1066 
+Sam Tarry @SamTarry 
+Sammy Wilson @eastantrimmp Democratic Unionist Party East Antrim 18,168 ▲ 15 
+Saqib Bhatti @bhatti_saqib 
+Sara Britcliffe @SarBritcliffeMP 
+Sarah Atherton @AthertonNWales 
+Sarah Champion @SarahChampionMP 
+Sarah Dines @Dines4Dales 
+Sarah Jones @
+Sarah Olney @sarahjolney1 
+Sarah Owen @SarahOwen_ 
+Scott Lloyd Benton @ScottBentonMP 
+Scott Mann @scottmann4NC 
+Seema Malhotra @SeemaMalhotra1 
+Selaine Saxby @SelaineSaxby 
+Shabana Mahmood @ShabanaMahmood 
+Shailesh Vara @ShaileshVara 
+Sharon Hodgson @SharonHodgsonMP 
+Shaun Bailey @Shaun4WBW 
+Sheryll Murray @sheryllmurray 
+Simon Baynes @baynes_simon 
+Simon Clarke @SimonClarkeMP 
+Simon Fell @simonfell 
+Simon Hart @Simonhartmp 
+Simon Hoare @Simon4NDorset 
+Simon Jupp @simonjamesjupp 
+Siobhain McDonagh @Siobhain_Mc 
+Siobhan Baillie @Siobhan_Baillie 
+Stella Creasy @stellacreasy 
+Stephanie Peacock @Steph_Peacock 
+Stephen Barclay @SteveBarclay 
+Stephen Crabb @SCrabbPembs 
+Stephen Doughty @SDoughtyMP 
+Stephen Farry @StephenFarryMP Alliance Party of Northern Ireland North Down 10,896 ▲ 1 
+Stephen Flynn @StephenFlynnSNP 
+Stephen Hammond @S_Hammond 
+Stephen Kinnock @SKinnock 
+Stephen McPartland @SMcPartland 
+Stephen Metcalfe @Metcalfe_SBET 
+Stephen Morgan @StephenMorganMP 
+Stephen Timms @stephenctimms 
+Steve Brine @BrineMP 
+Steve Double @stevedouble 
+Steve McCabe @steve_mccabe 
+Steve Reed @SteveReedMP 
+Steven Baker @SteveBakerHW 
+Steven Bonnar @StevenBonnarSNP 
+Stewart Hosie @StewartHosieSNP 
+Stewart Malcolm McDonald @StewartMcDonald 
+Stuart Andrew @StuartAndrew 
+Stuart C. McDonald @Stuart_McDonald 
+Stuart Paul Anderson @Stuart4WolvesSW 
+Suella Fernandes @SuellaBraverman 
+Suzanne Webb @Q66Suzi 
+Tahir Ali @TahirAliMP 
+Taiwo Owatemi @TaiwoOwatemi 
+Tanmanjit Singh Dhesi @TanDhesi 
+Thangam Debbonaire @ThangamMP 
+Theo Clarke @theodoraclarke 
+Theresa May @theresa_may 
+Tim Farron @timfarron 
+Tim Loughton @timloughton 
+Tobias Ellwood @Tobias_Ellwood 
+Toby Perkins @tobyperkinsmp 
+Tom Hunt @tomhunt1988 
+Tom Pursglove @VotePursglove 
+Tom Randall @Tom_Randall 
+Tom Tugendhat @TomTugendhat 
+Tommy Sheppard @TommySheppard 
+Tonia Antoniazzi @ToniaAntoniazzi 
+Tony Lloyd @tony4rochdale 
+Tracey Crouch @tracey_crouch 
+Tracy Brabin @TracyBrabin 
+Tulip Siddiq @TulipSiddiq 
+Valerie Vaz @Valerie_VazMP 
+Vicky Ford @vickyford 
+Vicky Foxcroft @vickyfoxcroft 
+Victoria Prentis @VictoriaPrentis 
+Virendra Sharma @VirendraSharma 
+Wayne David @WayneDavid_MP 
+Wendy Chamberlain @wendychambLD 
+Wendy Morton @morton_wendy 
+Wera Hobhouse @Wera_Hobhouse 
+Wes Streeting @wesstreeting 
+Will Quince @willquince 
+William Cash @BillCashMP 
+William Wragg @William_Wragg 
+Yasmin Qureshi @YasminQureshiMP 
+Yvette Cooper @YvetteCooperMP 
+Yvonne Fovargue @Y_FovargueMP 
+Zarah Sultana @zarahsultana 
