@@ -38,8 +38,8 @@ def process_file(filename, database, cutoff_date=None):
                         ratio=0
                 else:
                         ratio=tweets_with_numbers_and_links/tweets_with_numbers
-		#print headings
-		#print "here"
+		print headings
+		print "here"
                 database[
                     headings[0]] = (
                     headings[1],
@@ -73,5 +73,5 @@ def produce_html(database):
         for key, value in processed_mps:
                 rank+=1
  #               print "{} (@{}): {}, {}, {} {:.2f}%".format(value[0], key, value[1], value[2], value[3], value[4]*100)
-                print "<tr><td>{}</td><td>{} </td><td> (@{}) </td><td> {} </td><td> {} </td><td> {} </td><td> {:.2f}% </td></tr>".format(rank,value[0], key, value[1], value[2], value[3], value[4]*100)
+                print "<tr><td>{}</td><td>{} </td><td> ({}) </td><td> {} </td><td> {} </td><td> {} </td><td> {:.2f}% </td></tr>".format(rank,value[0], key, value[1], value[2], value[3], value[4]*100)
 produce_html(populate_database())

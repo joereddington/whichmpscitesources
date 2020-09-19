@@ -33,20 +33,18 @@ access_secret = config.get('twitter', 'access_secret')
 
 
 def get_all_handles():
-    ids=[]
-    import urllib, json
-    url = "https://cdn.rawgit.com/everypolitician/everypolitician-data/2fcff6382b2abf8e490893fcff0e6e34f26b9f93/data/UK/Commons/ep-popolo-v1.0.json"
-    response = urllib.urlopen(url)
-    data = json.loads(response.read())
-    for mp in data['persons']:
-        if 'contact_details' in mp.keys():
-            contacts=mp['contact_details']
-            for contact in contacts:
-                if contact['type'] == "twitter":
-                  #  print "Name: {}, Twitter: {}".format(mp['name'],contact['value'])
-                    handle=contact['value']
-                    ids.append(handle)
-    return ids
+    f = open('mps.txt', 'rt')
+    handles=[]
+    try:
+        reader = csv.reader(f)
+        for mp in reader:
+        #    print mp[1]
+            handles.append(mp[1])
+    except TypeError: 
+            pass
+    finally:
+            f.close()
+    return handles
 
 def get_all_tweets(screen_name):
                 # Twitter only allows access to a users most recent 3240 tweets with
@@ -119,7 +117,8 @@ def get_all_tweets(screen_name):
         # write the csv
         with open('%s_tweets.csv' % screen_name.strip(), 'wb') as f:
                 writer = csv.writer(f)
-                writer.writerow(top_line)
+                print top_line[1]
+                writer.writerow([screen_name,top_line[1].encode("utf-8")])
                 writer.writerows(outtweets)
 
         pass
@@ -127,5 +126,6 @@ def get_all_tweets(screen_name):
 
 if __name__ == '__main__':
         names = get_all_handles()
+        print names
         for mp in names:
                 get_all_tweets(mp)
