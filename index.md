@@ -44,4 +44,4 @@ For the first list, [someone on reddit](https://www.reddit.com/r/unitedkingdom/c
 </tbody>
 </table>
 
-This is a project by [Joe Reddington](https://joereddington.github.io/). 
+This is a project by [Joe Reddington](https://joereddington.github.io/). It owes existence to a range of volunteers, anonymous internet commentators, and loved ones. The twitter handles came from the wonderful [MPs on Twitter](https://www.mpsontwitter.co.uk/ ) site.  
