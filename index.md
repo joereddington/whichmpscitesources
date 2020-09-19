@@ -29,3 +29,5 @@ For the first list, [someone on reddit](https://www.reddit.com/r/unitedkingdom/c
 > I think it’s pretty clear that the top 20% of those MPs are doing something right methodologically, compared to the bottom 20%. But I’d be careful of singling out any individual case with such a blunt tool. Especially if all 5 are from the same party
 
 …and you should take that as your general guide. If your MP is in the bottom half of the table, there is probably something wrong…
+
+{% include list.html %}

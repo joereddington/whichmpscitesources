@@ -38,8 +38,8 @@ def process_file(filename, database, cutoff_date=None):
                         ratio=0
                 else:
                         ratio=tweets_with_numbers_and_links/tweets_with_numbers
-		print headings
-		print "here"
+		# print headings
+		# print "here"
                 database[
                     headings[0]] = (
                     headings[1],
