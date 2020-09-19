@@ -45,3 +45,15 @@ For the first list, [someone on reddit](https://www.reddit.com/r/unitedkingdom/c
 </table>
 
 This is a project by [Joe Reddington](https://joereddington.github.io/). It owes existence to a range of volunteers, anonymous internet commentators, and loved ones. The twitter handles came from the wonderful [MPs on Twitter](https://www.mpsontwitter.co.uk/ ) site.  
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-43886525-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-43886525-1');
+</script>
+<!-- End of Google Analytics Code-->
