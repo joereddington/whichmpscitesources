@@ -117,7 +117,6 @@ def get_all_tweets(screen_name):
         # write the csv
         with open('%s_tweets.csv' % screen_name.strip(), 'wb') as f:
                 writer = csv.writer(f)
-                print top_line[1]
                 writer.writerow([screen_name,top_line[1].encode("utf-8")])
                 writer.writerows(outtweets)
 
